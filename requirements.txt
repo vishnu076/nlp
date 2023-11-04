@@ -1,0 +1,3 @@
+django-rest-framewrork
+django-corse-headers
+Vader
